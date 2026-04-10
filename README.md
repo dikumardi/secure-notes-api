@@ -124,10 +124,4 @@ Middleware verifies the user before accessing notes routes.
 
 ---
 
-## 🧪 Testing
-
-You can test APIs using **Postman**.
-
----
-
 
